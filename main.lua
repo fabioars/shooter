@@ -2,7 +2,7 @@ require 'ui'
 require 'input'
 require 'collision'
 
-debug = true
+debug = false
 
 -- Screen center
 screenCenter = { x = 0, y = 0 }
