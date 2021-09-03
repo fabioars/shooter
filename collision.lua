@@ -14,3 +14,4 @@ function createRect(element, img)
     h = img:getHeight()
   }
 end
+
